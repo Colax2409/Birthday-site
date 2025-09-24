@@ -1,0 +1,134 @@
+h1  {
+    font-size: 100px;
+    font-family: 'Pacifico', cursive; /* playful, handwriting style */
+}
+
+h2 {
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-family: 'Pacifico', cursive; /* playful, handwriting style */
+    
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#F2d675, brown);
+    color: #ffffff;
+    text-shadow: 0px 0px 1px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     
+
+}
+
+
+title {
+    display: flex;
+    justify-content: end;
+    
+    margin-right: 1400px;
+    font-size: 50px;
+    border-bottom: 5px solid bisque;
+    font-family: 'Pacifico', cursive;
+}
+p {
+    font-size: 35px;
+    margin-bottom: 200px;
+    font-family: 'Pacifico', cursive; /* playful, handwriting style */
+
+    border-radius: 5px;
+    
+}
+
+.image  {
+    width: 300px;
+    border-radius: 50%;
+    border: 6px solid #F5e6ab;
+    height: 300px;
+    margin-bottom: 30px;
+
+}
+
+#bday-name {
+    font-size: 50px;
+    font-family: 'Pacifico', cursive; /* playful, handwriting style */
+    border-radius: 12px;
+}
+
+#bday-date {
+    background-color: burlywood;
+    padding: 5px 10px;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Pacifico', cursive; /* playful, handwriting style */
+}
+
+
+#bday-age {
+    background-color: burlywood;
+    padding: 5px 10px;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-family: 'Pacifico', cursive; /* playful, handwriting style */
+ 
+}
+
+
+
+
+#header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
+
+
+
+.footer {
+    margin: 20px 10px;
+    /
+
+}
+a {
+    color: #ffffff;
+}
+
+.Page-dedication {
+    font-size: 0px;
+}
+
+
+
+#gift-img-happy:hover  {
+    
+    background-color:  #f70000;
+
+
+}
+
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+footer {
+    
+    font-size: 80px;
+    margin-bottom: 50px;
+    font-style: italic;
+    font-family: 'Pacifico', cursive; 
+}
+
